@@ -52,3 +52,6 @@ Players can switch between multiple weapons and battle different enemy types whi
 ```bash
 pip install pygame
 python rapid.py
+
+<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/b51a7e21-a198-4c82-bc63-663ddd23055d" />
+
